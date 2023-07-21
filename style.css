@@ -306,6 +306,7 @@ textarea{
   }
   .BG-col{
     height: 400px;
+    background-position: bottom center;
   }
   .hero-sec{
     height: 400px;
